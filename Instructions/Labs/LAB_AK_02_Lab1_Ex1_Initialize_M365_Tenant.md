@@ -1,10 +1,4 @@
-# Learning Path 2 - Lab 1 - Exercise 1 - Initialize your Microsoft 365 Tenant 
 
-Adatum Corporation is a subsidiary of Contoso Electronics. Adatum runs its legacy applications (such as Microsoft Exchange Server 2019) in an on-premises deployment. However, it recently subscribed to Microsoft 365, thereby creating a hybrid deployment in which it must synchronize its on-premises and cloud deployments. 
-
-As Adatum's Enterprise administrator, you have been tasked with deploying Microsoft 365 in Adatum’s hybrid deployment using a virtualized lab environment. In this exercise, you will set up Adatum's Microsoft 365 trial tenant, and your instructor will guide you on how to obtain your Microsoft 365 credentials in your lab-hosted environment. You will use these credentials throughout the remaining labs in this course. 
-
-In your lab environment, your lab hosting provider has already created a free Microsoft 365 trial tenant for you, along with a default tenant admin account in Microsoft 365 (the display name for this user account is MOD Administrator). You will log into the Domain Controller VM (LON-DC1) using the local ADATUM\Administrator account, and when you access Microsoft 365 for the first time, you will initially log in using the Microsoft 365 tenant admin account created by your lab hosting provider. You will then update Adatum's Microsoft 365 organizational profile, and you will prepare your tenant for Microsoft Azure Active Directory and for a future lab using Microsoft Teams.
 
 
 ### Task 1 - Obtain Your Microsoft 365 Credentials
@@ -59,7 +53,7 @@ In your role as Holly Dickson, Adatum’s Enterprise Administrator, you have bee
 
 15. In the **Organization information** pane that appears, enter the following information:
 
-    - Name: **Adatum Corporation** (Note: Contoso is originally displayed as the organization name; this was explained in the Introduction section at the start of this lab. In this step you will change it to Adatum Corporation.)
+    - Name: **Adatum Corporation**
 
     - Street Address: **555 Main Street**
 
